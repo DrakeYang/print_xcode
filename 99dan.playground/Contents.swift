@@ -8,7 +8,7 @@ import UIKit
 var arr:[Int] = []
 for i in 2...9 {
     for j in 1...9{
-        //print(i,"x",j,"=",i*j)
+        print(i,"x",j,"=",i*j)
     }
 }
 
